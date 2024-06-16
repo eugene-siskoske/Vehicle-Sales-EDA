@@ -1,7 +1,7 @@
 # Vehicle-Sales-EDA
 Analysis of used vehicle sales in the US market.
 
-Please view the Jupypter Notebook file for the full analysis of the data.
+Please view the Jupyter Notebook file for the full analysis of the data.
 
 This is a full exploratory data analysis (EDA) of about 500,000 transactions in the US used vehicle market. Each step of the process is commented in the notebook but I will also elaborate here.
 
